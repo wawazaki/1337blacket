@@ -1,0 +1,26 @@
+{
+  "name": "1337blacket",
+  "version": "1.0.0",
+  "description": "Desc basic app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wawazaki/1337blacket.git"
+  },
+  "dependencies": {
+    "1337blacket": "1.0.0",
+    "sanulovetea": "1.0.0",
+    "tea_kozmickai": "1.0.0"
+
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wawazaki/1337blacket/issues"
+  },
+  "homepage": "https://github.com/wawazaki/1337blacket#readme"
+}
